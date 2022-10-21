@@ -1,5 +1,6 @@
 # This repository includes the material used in the "microeconometrics" course
 
-#Subfolder
+The files of microeconometric class graduate levels are made it in STATA. STATA is a famously programming language for econometrics and panel data. 
 
-Importante
+The course starts with a briefly summarize of linear regression and continue with topics such as: Instruemtal Variables, Panel data and logit regression.
+
